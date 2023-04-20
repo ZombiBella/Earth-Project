@@ -1,0 +1,49 @@
+.logs-burning {
+  height: 396px;
+}
+
+body{
+   font-family: 'Courier New', monospace;
+    font-size: 24px;
+    background-color: #B2AC88;
+}
+
+.item1{
+    margin:5px;
+    padding:5px;
+    border:2px solid black;  
+}
+
+.Affects{
+  display: flex;  
+  justify-content:space-evenly;
+}
+
+img{
+  width:700px;
+    margin:4px;border:solid #5C4033 5px; padding:0px;}
+
+.title{   
+    text-align:center;
+}
+
+h1{
+    color: #5D5D5D ;
+}
+
+.bold-line{
+  color: black
+}
+
+h1 { text-shadow: 1px 1px #B2AC88;
+}
+
+h2{
+  color:#8A9A5B	;
+  text-shadow: 1px 1px #4a5d23;
+}
+
+h3{
+  color:#8A9A5B	;
+  text-shadow: 1px 1px #4a5d23;
+}
